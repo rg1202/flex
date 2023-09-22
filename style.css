@@ -140,7 +140,7 @@ section {
 
   }
   
-  /* Small smartphones - image placeholders change color */
+  /* Small smartphones - image placeholders change color 
   @media screen and (max-width: 768px) {
     .container{
       justify-content: left;
@@ -151,4 +151,4 @@ section {
       width:300px;
       font-size: 12px;
     }
-  }
+  }*/
